@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--The splash screen should only be made of two elements:
+    1. Background colour.
+    2. Brand/ logo.
+    Thus, two items are created.-->
+
+    <!--Set the background color of the splash screen.-->
+    <item android:drawable="@color/colorRossoCorsa"/>
+
+    <!--Create an image item.
+    Set the image item to the logo and alter the attribute of the logo
+    to the center.-->
+    <item>
+        <bitmap android:src="@drawable/logo"
+            android:gravity="center" />
+    </item>
+
+</layer-list>

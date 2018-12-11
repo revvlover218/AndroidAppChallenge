@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7D001E</color>
+    <color name="colorPrimaryDark">#31000C</color>
+    <color name="colorAccent">#4A0012</color>
+    <color name="colorRossoCorsa">#7D001E</color>
+
+    <color name="appbackground">#efefef</color>
+    <!--<color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorRossoCorsa">#7D001E</color>-->
+</resources>

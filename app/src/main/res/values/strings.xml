@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Numbers API</string>
+    <string name="app_Math">Numbers API - Math</string>
+    <string name="app_Trivia">Numbers API - Trivia</string>
+    <string name="app_Date">Numbers API - Date</string>
+    <string name="app_Random">Numbers API - Random</string>
+    <string name="testString">The quick brown fox jumped over the white lazy dog.</string>
+    <string name="jsonDisplay">JSON Display of object here...</string>
+    <string name="refresh">Refresh</string>
+    <string name="buttonText">Learn something new?</string>
+    <string name="inputTextField">Enter number</string>
+    <string name="TextView">We believe learning empowers you. Enter a number to know more...</string>
+    <string name="number">Number</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+</resources>
